@@ -6,7 +6,8 @@ This mini project uses playful animations, pastel vibes, and fun logic to make s
 
 ---
 
-![Demo](./assets/React-marrige-proposal.gif)
+![Demo](https://raw.githubusercontent.com/snee-a/React-marriage-proposal/main/src/assets/React-marrige-proposal.gif)
+
 
 --
 
