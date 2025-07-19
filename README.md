@@ -6,6 +6,10 @@ This mini project uses playful animations, pastel vibes, and fun logic to make s
 
 ---
 
+![Demo](./assets/React-marriage-proposal.gif)
+
+--
+
 ## ✨ Features
 
 - 🌸 Soft pastel UI with smooth animations
