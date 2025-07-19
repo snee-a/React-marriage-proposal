@@ -1,0 +1,11 @@
+*{
+  /* background: 'linear-gradient(135deg, #ffc0cb, #ff69b4)'; */
+  background: linear-gradient(135deg, #f5d4da, #f3b9d6);
+}
+#card{
+ /* background: linear-gradient(135deg, #ffc0cb, #ff69b4);
+  */
+   height: '100vh';
+   width: '100vw';
+ background-color: pink;
+}
